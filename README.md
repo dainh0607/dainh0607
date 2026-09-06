@@ -55,7 +55,27 @@
 
 ---
 
-### ❯ 04 // TRANSMISSION & NETWORK ENDPOINTS
+### ❯ 04 // TELEMETRY & SYSTEM METRICS
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dainh0607&theme=tokyonight&hide_border=true&background=0a0f1d" height="175" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dainh0607&theme=tokyonight" height="175" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dainh0607&theme=tokyonight" height="160" />
+</div>
+
+---
+
+### ❯ 05 // TRANSMISSION & NETWORK ENDPOINTS
 
 ```
 [ENDPOINT:EMAIL]  ❯ nguyenhoangdai67d@gmail.com
