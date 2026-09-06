@@ -1,12 +1,12 @@
 <div align="center">
 
-# William Nguyen (Đại Nguyễn)
+# Nguyễn Hoàng Đại (William Nguyen)
 
 **Senior Full-Stack Engineer & Software Architect**  
 *Architecting resilient distributed backends, enterprise multi-tenant systems, and high-concurrency cloud architectures with .NET and React.*
 
 <p>
-  <code>Ho Chi Minh City, Vietnam</code> &nbsp;•&nbsp;
+  <code>Dong Nai city, Vietnam</code> &nbsp;•&nbsp;
   <a href="mailto:nguyenhoangdai67d@gmail.com"><code>nguyenhoangdai67d@gmail.com</code></a> &nbsp;•&nbsp;
   <a href="https://github.com/dainh0607"><code>github.com/dainh0607</code></a>
 </p>
