@@ -76,12 +76,6 @@ Full-Stack Developer focused on building maintainable web applications with ASP.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dainh0607&theme=github_dark" height="175" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dainh0607&theme=github_dark" height="160" />
-</div>
-
 ---
 
 ### Contact
