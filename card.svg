@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470">
+<defs>
+  <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#10B981"/>
+  </linearGradient>
+  <radialGradient id="bgGlow" cx="30%" cy="20%" r="80%">
+    <stop offset="0%" stop-color="#0B1120"/>
+    <stop offset="100%" stop-color="#050816"/>
+  </radialGradient>
+  <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.04"/>
+    <stop offset="50%" stop-color="#A5F3FC" stop-opacity="0.4"/>
+    <stop offset="55%" stop-color="#22D3EE" stop-opacity="0.04"/>
+    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", "Fira Code", Consolas, monospace; font-size: 13.5px; }
+    .title { font-family: ui-monospace, "SF Mono", "Fira Code", Consolas, monospace; font-size: 11px; fill: #38bdf8; letter-spacing: 2px; font-weight: bold; }
+    .head { fill: #c084fc; font-weight: bold; }
+    .accent { fill: #2dd4bf; font-weight: bold; }
+    .line { fill: #334155; }
+    .bullet { fill: #64748b; }
+    .key { fill: #38bdf8; }
+    .dots { fill: #334155; }
+    .val { fill: #f1f5f9; }
+  </style>
+</defs>
+
+<!-- Card Background -->
+<rect width="800" height="470" rx="16" fill="url(#bgGlow)"/>
+
+<!-- Terminal Text Content -->
+<g class="mono">
+  <!-- Top Label -->
+  <text x="36" y="36" class="title">SYSTEM.INFO</text>
+
+  <!-- User Header -->
+  <text x="36" y="62">
+    <tspan class="head">william@devos</tspan>
+    <tspan class="line"> ----------------------------------------------------</tspan>
+  </text>
+
+  <!-- Bio Info -->
+  <text x="36" y="90">
+    <tspan class="bullet">. </tspan><tspan class="key">Subject</tspan><tspan class="dots">: ..................... </tspan><tspan class="val">Nguyễn Hoàng Đại (William)</tspan>
+  </text>
+  <text x="36" y="112">
+    <tspan class="bullet">. </tspan><tspan class="key">Role</tspan><tspan class="dots">: ........................ </tspan><tspan class="val">Full-Stack Developer</tspan>
+  </text>
+  <text x="36" y="134">
+    <tspan class="bullet">. </tspan><tspan class="key">Origin</tspan><tspan class="dots">: ...................... </tspan><tspan class="val">Dong Nai, Vietnam</tspan>
+  </text>
+  <text x="36" y="156">
+    <tspan class="bullet">. </tspan><tspan class="key">Status</tspan><tspan class="dots">: ...................... </tspan><tspan class="val">Building • Learning • Shipping</tspan>
+  </text>
+  <text x="36" y="178">
+    <tspan class="bullet">. </tspan><tspan class="key">ToolChain</tspan><tspan class="dots">: ................... </tspan><tspan class="val">VS Code, Visual Studio, Git, Docker, Postman</tspan>
+  </text>
+
+  <!-- Tech Stacks -->
+  <text x="36" y="212">
+    <tspan class="bullet">. </tspan><tspan class="key">Core.Lang</tspan><tspan class="dots">: .................. </tspan><tspan class="val">C#, TypeScript, JavaScript, SQL</tspan>
+  </text>
+  <text x="36" y="234">
+    <tspan class="bullet">. </tspan><tspan class="key">Core.Frontend</tspan><tspan class="dots">: .............. </tspan><tspan class="val">React, Next.js, Tailwind CSS, HTML/CSS</tspan>
+  </text>
+  <text x="36" y="256">
+    <tspan class="bullet">. </tspan><tspan class="key">Core.Backend</tspan><tspan class="dots">: ............... </tspan><tspan class="val">.NET (ASP.NET Core), EF Core, REST APIs</tspan>
+  </text>
+  <text x="36" y="278">
+    <tspan class="bullet">. </tspan><tspan class="key">Core.Database</tspan><tspan class="dots">: .............. </tspan><tspan class="val">SQL Server, PostgreSQL, Redis</tspan>
+  </text>
+  <text x="36" y="300">
+    <tspan class="bullet">. </tspan><tspan class="key">Core.Infra</tspan><tspan class="dots">: ................. </tspan><tspan class="val">Docker, GitHub Actions, CI/CD, NGINX</tspan>
+  </text>
+
+  <!-- Contact Divider -->
+  <text x="36" y="334">
+    <tspan class="accent">- Contact</tspan>
+    <tspan class="line"> ----------------------------------------------------</tspan>
+  </text>
+
+  <!-- Contact Info -->
+  <text x="36" y="362">
+    <tspan class="bullet">. </tspan><tspan class="key">Grid.Mail</tspan><tspan class="dots">: .................. </tspan><tspan class="val">nguyenhoangdai67d@gmail.com</tspan>
+  </text>
+  <text x="36" y="384">
+    <tspan class="bullet">. </tspan><tspan class="key">Grid.Github</tspan><tspan class="dots">: ................ </tspan><tspan class="val">dainh0607</tspan>
+  </text>
+  <text x="36" y="406">
+    <tspan class="bullet">. </tspan><tspan class="key">Grid.Location</tspan><tspan class="dots">: .............. </tspan><tspan class="val">Dong Nai, Vietnam</tspan>
+  </text>
+
+  <!-- Blinking Cursor -->
+  <rect x="36" y="426" width="8" height="15" fill="#38bdf8">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- Scanning Glow Effect -->
+<rect x="0" y="-70" width="800" height="70" fill="url(#scanGrad)" opacity="0.6" style="mix-blend-mode:screen">
+  <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 540" dur="4.5s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Glowing Gradient Border -->
+<rect x="1.5" y="1.5" width="797" height="467" rx="15" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.8">
+  <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3s" repeatCount="indefinite"/>
+</rect>
+</svg>
