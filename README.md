@@ -21,8 +21,6 @@ Full-Stack Developer focused on building maintainable web applications with ASP.
 
 - **Engineering Focus:** Clean Code, API Design, Database Optimization, Testing, Performance & CI/CD.
 
----
-
 ### Technical Skills
 
 | Category | Technologies & Tools |
@@ -33,8 +31,6 @@ Full-Stack Developer focused on building maintainable web applications with ASP.
 | **DevOps** | Git, GitHub Actions, Docker |
 | **Testing** | xUnit, Integration Testing, E2E Testing |
 | **Tools** | Visual Studio, VS Code, Postman |
-
----
 
 ### Featured Projects
 
@@ -53,16 +49,12 @@ Full-Stack Developer focused on building maintainable web applications with ASP.
 - **Architecture:** ASP.NET Core Web API + React SPA + SQL Server
 - **Repository:** [github.com/dainh0607/QuanLyNhanSu-HRM](https://github.com/dainh0607/QuanLyNhanSu-HRM)
 
----
-
 ### Engineering Experience
 
 - **Backend Development:** Designed and implemented RESTful APIs using ASP.NET Core, including JWT authentication, authorization, validation, and business logic.
 - **Frontend Development:** Built responsive SPA interfaces with React, TypeScript, and Tailwind CSS.
 - **Database & Performance:** Designed relational databases, optimized SQL queries, and applied caching strategies where appropriate.
 - **Testing & CI/CD:** Developed automated tests and integrated testing workflows into GitHub Actions.
-
----
 
 ### GitHub Activity
 
@@ -84,7 +76,7 @@ Full-Stack Developer focused on building maintainable web applications with ASP.
 - **GitHub:** [github.com/dainh0607](https://github.com/dainh0607)
 - **Location:** Dong Nai, Vietnam
 
----
+<br/>
 
 <div align="center">
   <sub>Portfolio & Profile of <b>Nguyễn Hoàng Đại (William Nguyen)</b></sub>
