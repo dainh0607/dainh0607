@@ -55,37 +55,7 @@
 
 ---
 
-### ❯ 04 // TELEMETRY & SYSTEM METRICS
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dainh0607/dainh0607/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dainh0607/dainh0607/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/dainh0607/dainh0607/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dainh0607&theme=tokyonight&hide_border=true&background=0a0f1d" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dainh0607&theme=tokyonight" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dainh0607&theme=tokyonight" height="160" />
-</div>
-
----
-
-### ❯ 05 // TRANSMISSION & NETWORK ENDPOINTS
+### ❯ 04 // TRANSMISSION & NETWORK ENDPOINTS
 
 ```
 [ENDPOINT:EMAIL]  ❯ nguyenhoangdai67d@gmail.com
