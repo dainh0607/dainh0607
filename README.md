@@ -3,10 +3,10 @@
 # Nguyễn Hoàng Đại (William Nguyen)
 
 **Full-Stack Developer**  
-*Chuyên phát triển ứng dụng Web với hệ sinh thái .NET & React*
+*Full-Stack Developer specializing in .NET & React*
 
 <p>
-  <code>Dong Nai city, Vietnam</code> &nbsp;•&nbsp;
+  <code>Dong Nai, Vietnam</code> &nbsp;•&nbsp;
   <a href="mailto:nguyenhoangdai67d@gmail.com"><code>nguyenhoangdai67d@gmail.com</code></a> &nbsp;•&nbsp;
   <a href="https://github.com/dainh0607"><code>github.com/dainh0607</code></a>
 </p>
@@ -15,38 +15,56 @@
 
 ---
 
-### Giới thiệu (About Me)
+### About Me
 
-Xin chào! Tôi là Đại (William), một lập trình viên Full-Stack chuyên xây dựng các ứng dụng web thực tế, dễ bảo trì và mang lại trải nghiệm tốt cho người dùng.
+Full-Stack Developer focused on building maintainable web applications with ASP.NET Core and React. Interested in backend architecture, database optimization, testing, and building reliable production-ready systems.
 
-- **Thế mạnh chính:** Phát triển Backend với **C# / .NET (ASP.NET Core)** và xây dựng giao diện ứng dụng web hiện đại với **React / TypeScript**.
-- **Phương châm làm việc:** Chú trọng viết code sạch (Clean Code), tổ chức cấu trúc dự án rõ ràng, kiểm thử cẩn thận và tối ưu hóa hiệu năng ứng dụng.
-- **Tác phong làm việc:** Chủ động tìm kiếm giải pháp thực tế cho từng bài toán, sẵn sàng học hỏi công nghệ mới và phối hợp hiệu quả trong công việc.
+- **Engineering Focus:** Clean Code, API Design, Database Optimization, Testing, Performance & CI/CD.
 
 ---
 
-### Kỹ năng Kỹ thuật (Technical Skills)
+### Technical Skills
 
-| Nhóm kỹ năng | Công nghệ & Công cụ chính |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend** | C#, .NET (ASP.NET Core, Entity Framework Core), RESTful API, LINQ |
-| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3 |
-| **Cơ sở dữ liệu** | Microsoft SQL Server, PostgreSQL, Redis (Caching) |
-| **DevOps & Công cụ** | Git, GitHub Actions (CI/CD), Docker, Postman, Visual Studio, VS Code |
-| **Kiểm thử phần mềm** | Unit Testing (xUnit), Integration Testing, Automated Testing |
+| **Backend** | C#, ASP.NET Core, Entity Framework Core, RESTful API, LINQ |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Database** | SQL Server, PostgreSQL, Redis |
+| **DevOps** | Git, GitHub Actions, Docker |
+| **Testing** | xUnit, Integration Testing, E2E Testing |
+| **Tools** | Visual Studio, VS Code, Postman |
 
 ---
 
-### Kinh nghiệm & Hướng phát triển
+### Featured Projects
 
-- **Thiết kế & Xây dựng Web API:** Phát triển hệ thống RESTful API chuẩn mực, xử lý logic nghiệp vụ chặt chẽ, tích hợp xác thực và phân quyền người dùng (JWT, Auth).
-- **Phát triển Giao diện Ứng dụng:** Xây dựng giao diện Single Page Applications (SPA) với React và Next.js mượt mà, trực quan và responsive trên mọi thiết bị.
-- **Quản lý & Tối ưu Cơ sở dữ liệu:** Thiết kế cơ sở dữ liệu quan hệ, tối ưu truy vấn SQL và áp dụng cơ chế bộ nhớ đệm (caching) để cải thiện tốc độ phản hồi.
-- **Tự động hóa & Đảm bảo chất lượng:** Áp dụng quy trình kiểm thử tự động kết hợp CI/CD với GitHub Actions giúp mã nguồn luôn ổn định khi release.
+#### [NexaHRM — Human Resource Management System](https://github.com/dainh0607/QuanLyNhanSu-HRM)
+> Full-stack HRM system for employee management, attendance, shift scheduling, contracts and payroll.
+
+- **Tech Stack:** ASP.NET Core · React · TypeScript · SQL Server · Redis · Docker
+- **Key Features:**
+  - JWT Authentication & Role-based Authorization
+  - Employee & Department Management
+  - Attendance & Shift Scheduling
+  - Payroll Management
+  - RESTful API with structured validation & error handling
+  - Database optimization & caching
+  - Automated testing
+- **Architecture:** ASP.NET Core Web API + React SPA + SQL Server
+- **Repository:** [github.com/dainh0607/QuanLyNhanSu-HRM](https://github.com/dainh0607/QuanLyNhanSu-HRM)
 
 ---
 
-### Hoạt động Đóng góp (GitHub Activity)
+### Engineering Experience
+
+- **Backend Development:** Designed and implemented RESTful APIs using ASP.NET Core, including JWT authentication, authorization, validation, and business logic.
+- **Frontend Development:** Built responsive SPA interfaces with React, TypeScript, and Tailwind CSS.
+- **Database & Performance:** Designed relational databases, optimized SQL queries, and applied caching strategies where appropriate.
+- **Testing & CI/CD:** Developed automated tests and integrated testing workflows into GitHub Actions.
+
+---
+
+### GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dainh0607&theme=dark&background=0d1117&border=2e343b&stroke=2e343b&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" height="175" />
@@ -66,14 +84,14 @@ Xin chào! Tôi là Đại (William), một lập trình viên Full-Stack chuyê
 
 ---
 
-### Thông tin Liên hệ (Contact)
+### Contact
 
 - **Email:** [nguyenhoangdai67d@gmail.com](mailto:nguyenhoangdai67d@gmail.com)
 - **GitHub:** [github.com/dainh0607](https://github.com/dainh0607)
-- **Địa điểm:** Dong Nai, Vietnam
+- **Location:** Dong Nai, Vietnam
 
 ---
 
 <div align="center">
-  <sub>Portfolio & Profile of <b>William Nguyen (dainh0607)</b></sub>
+  <sub>Portfolio & Profile of <b>Nguyễn Hoàng Đại (William Nguyen)</b></sub>
 </div>
